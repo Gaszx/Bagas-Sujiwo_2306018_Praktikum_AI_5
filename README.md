@@ -20,7 +20,8 @@ Repository ini berisi implementasi sistem pakar interaktif yang dapat digunakan 
 
 
 ## 💡 Penyakit yang Ditangani
-Penyakit yang ditambahkan berdasarkan modul dan bisa dideteksi oleh sistem:
+Penyakit yang ditambahkan berdasarkan modul :
+
 --COVID-19
 --Alergi
 --TBC (Tubrkulosis)
