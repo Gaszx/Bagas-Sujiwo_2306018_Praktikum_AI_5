@@ -20,15 +20,11 @@ Repository ini berisi implementasi sistem pakar interaktif yang dapat digunakan 
 
 
 ## 💡 Penyakit yang Ditangani
-Beberapa penyakit yang bisa dideteksi oleh sistem:
-- Flu
-- Infeksi Tenggorokan
-- Common Cold
-- Pneumonia
-- **COVID-19**
-- **Alergi**
-- **TBC (Tuberkulosis)**
-- **DBD (Demam Berdarah Dengue)**
+Penyakit yang ditambahkan berdasarkan modul dan bisa dideteksi oleh sistem:
+--COVID-19
+--Alergi
+--TBC (Tubrkulosis)
+--DBD (Demam Berdarah Dengue)
 
 ## 🛠️ Instalasi & Penggunaan
 
